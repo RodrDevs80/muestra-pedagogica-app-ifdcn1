@@ -236,6 +236,15 @@ nav > .container-fluid > div > ul > li > a:hover {
 }
 
 /*fin wp*/
+.f {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ag {
+  color: white;
+  text-decoration: none;
+}
 @media (max-width: 992px) {
   .contenedor-logo {
     display: flex;
